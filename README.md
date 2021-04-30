@@ -1,4 +1,4 @@
-# <a title="Dell Latitude EE6410 Hackintosh Laptop" href="https://www.gixxerpc.com/systems/laptop/e6410/#github">Dell Latitude E6410 Hackintosh Laptop</a><br>
+# Dell Latitude E6410 Hackintosh Laptop<br>
 ★ Intel Core i7 640M 2.8GHz Processor<br>
 ★ 16GB DDR3 RAM<br>
 ★ Samsung 1TB SSD (7mm and partitioned for Multi-booting)<br>
