@@ -1,4 +1,4 @@
-#  :fox_face: Dell Latitude E6410 Hackintosh Laptop<br>
+#  :fox_face: Dell Latitude E6410<br>
 ★ Intel Core i7 640M 2.8GHz Processor<br>
 ★ 16GB DDR3 RAM<br>
 ★ Samsung 1TB SSD (7mm and partitioned for Multi-booting)<br>
